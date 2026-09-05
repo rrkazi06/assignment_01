@@ -2,3 +2,9 @@ Write your reflection here.
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
+
+One thing that I was struggling with was working in the terminal. I opened a new terminal since I'd run my code so many times over and over. I also had an issue where I wasn't even in the proper folder before running a file, and had to do cd code. Next time, I'm going to remember to check what folder I'm in rather than assume that the file is going to run correctly even if I'm sure my code is correct. 
+
+I also forgot how to run the dashboard.py file and had to consult the AI to help me figure out that I had to run it as streamlit, not python, since it doesn't know how to do it automatically. I also questioned my code at times because there are multiple ways you can write code that can lead to the same outcome. For example, when I used the round function in the bill.py file, I was wondering whether I should put it in the variable formula or the return line. I chose to put it in the return line just so it looked cleaner. 
+
+Sometimes when I write code, I make it redundant because I'm writing it as my brain comprehends the language. This can make it look a little messy sometimes. For example, in one of the functions, I later realized that I didn't need to include an `Else` part because it was already implied for the function is_generous. I skimmed the Python readings from Chapters 1 and 2 before I started this assignment, but I think I need to spend more time getting familiar with all of the different functions, especially Booleans and loops. The arithmetic operations are pretty intuitive, as are variables and functions to an extent, but I want to keep practicing so the language becomes innate.
